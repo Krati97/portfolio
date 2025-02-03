@@ -1,7 +1,7 @@
 /* eslint-disable @next/next/no-img-element */
 import { workExperience } from '@/data'
 import React from 'react'
-import { Timeline } from "./ui/timeline"
+import  Timeline  from "./ui/TimelineUI";
 
 const PreviousExperiences = () => {
 
