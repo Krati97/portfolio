@@ -191,7 +191,7 @@ export const navItems = [
     },
     {
       id: 3,
-      title: "Solution Engineer, India",
+      title: "Solution Engineer",
       company: "Deqode",
       location: "MP, India",
       desc: "Led development of fitness app from sctatch. Worked for Ed-Tech company LeadSchool & created web and mobile solutions. Used - NestJs, TypeScript, BitBucket.",
@@ -200,7 +200,7 @@ export const navItems = [
     },
     {
       id: 4,
-      title: "Software developer, India",
+      title: "Software developer",
       company: "DigiValet",
       location: "MP, India",
       desc: "Assisted in the development of hospitality services used by Burj Khalifa, W London, Encore Boston. Used - Java, NodeJs, PostgreSql, Git.",
