@@ -32,7 +32,7 @@ export const navItems = [
       description: "I constantly try to improve",
       className: "lg:col-span-2 md:col-span-3 md:row-span-2",
       imgClassName: "",
-      titleClassName: "justify-center",
+      titleClassName: "justify-center lg:w-[349px] lg:pr-0",
       img: "",
       spareImg: "",
     },
@@ -49,11 +49,11 @@ export const navItems = [
   
     {
       id: 5,
-      title: "Currently building a JS Animation library",
-      description: "The Inside Scoop",
+      title: "A Small Code Snippet",
+      description: "Block of code that hilights module importing in Js Project",
       className: "md:col-span-3 md:row-span-2",
       imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
-      titleClassName: "justify-center md:justify-start lg:justify-center",
+      titleClassName: "justify-center md:justify-start lg:justify-top",
       img: "/b5.svg",
       spareImg: "/grid.svg",
     },
@@ -173,32 +173,40 @@ export const navItems = [
   export const workExperience = [
     {
       id: 1,
-      title: "Frontend Engineer Intern",
-      desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+      title: "FullStack JavaScript Developer",
+      company: "Zoro UK",
+      location: "London, United Kingdom",
+      desc: "Developed and maintained e-commerce website using modern and latest frontend technologies. Used - React, NodeJs, TypeScript, NextJs, Graphql, AWS.",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
     },
     {
       id: 2,
-      title: "Mobile App Dev - JSM Tech",
-      desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
-      className: "md:col-span-2", // change to md:col-span-2
-      thumbnail: "/exp2.svg",
-    },
-    {
-      id: 3,
-      title: "Freelance App Dev Project",
-      desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
-      className: "md:col-span-2", // change to md:col-span-2
+      title: "Associate Consultant - Technology",
+      company: "Virtusa",
+      location: "MP, India",
+      desc: "Worked on NextJs Projects extensively. Created and integrated RESTful APIs with best Practices. Used - React, NodeJs, NextJs, MongoDB, Git.",
+      className: "md:col-span-2",
       thumbnail: "/exp3.svg",
     },
     {
+      id: 3,
+      title: "Solution Engineer, India",
+      company: "Deqode",
+      location: "MP, India",
+      desc: "Led development of fitness app from sctatch. Worked for Ed-Tech company LeadSchool & created web and mobile solutions. Used - NestJs, TypeScript, BitBucket.",
+      className: "md:col-span-2",
+      thumbnail: "/exp2.svg",
+    },
+    {
       id: 4,
-      title: "Lead Frontend Developer",
-      desc: "Developed and maintained user-facing features using modern frontend technologies.",
+      title: "Software developer, India",
+      company: "DigiValet",
+      location: "MP, India",
+      desc: "Assisted in the development of hospitality services used by Burj Khalifa, W London, Encore Boston. Used - Java, NodeJs, PostgreSql, Git.",
       className: "md:col-span-2",
       thumbnail: "/exp4.svg",
-    },
+    }
   ];
   
   export const socialMedia = [
