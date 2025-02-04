@@ -32,7 +32,7 @@ export const navItems = [
       description: "I constantly try to improve",
       className: "lg:col-span-2 md:col-span-3 md:row-span-2",
       imgClassName: "",
-      titleClassName: "justify-center lg:w-[349px] lg:pr-0",
+      titleClassName: "justify-center w-[269px] lg:w-[359px] lg:pr-0",
       img: "",
       spareImg: "",
     },
