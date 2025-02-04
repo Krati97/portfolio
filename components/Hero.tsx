@@ -32,7 +32,7 @@ const Hero = () => {
             words="Transforming concepts into seemless user experience"
             />
             <p className="text-center md:tracking-wider mb-4 xt-sm  md: text-lg lg:text-2xl">
-                Hi, I am Krati Maheshwari, a JavaScript Fullstack developer Based in Vancouver.
+                Hi, I am <span className="text-purple">Krati Maheshwari</span>, a JavaScript Fullstack developer Based in Vancouver.
             </p>
 
             <a href="#about">
