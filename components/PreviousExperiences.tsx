@@ -17,7 +17,7 @@ const PreviousExperiences = () => {
         ),
       }));
       return (
-        <div className="py-20">
+        <div className="py-20" id='previous_experiences'>
           <h1 className="heading">
             Take a look at my <span className="text-purple">Previous Experiences</span>
           </h1>
