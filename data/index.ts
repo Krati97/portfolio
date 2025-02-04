@@ -212,13 +212,11 @@ export const navItems = [
     {
       id: 1,
       img: "/git.svg",
-    },
-    {
-      id: 2,
-      img: "/twit.svg",
+      link: "https://github.com/Krati97",
     },
     {
       id: 3,
       img: "/link.svg",
+      link: "https://www.linkedin.com/in/krati-maheshwari-833203109/",
     },
   ];
