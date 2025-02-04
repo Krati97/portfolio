@@ -1,4 +1,5 @@
 "use client";
+import Footer from "@/components/Footer";
 import Hero from "@/components/Hero";
 import PreviousExperiences from "@/components/PreviousExperiences";
 import { FloatingNav } from "@/components/ui/FloatingNav";
@@ -16,6 +17,7 @@ export default function Home() {
           <Hero />
           <Grid />
           <PreviousExperiences />
+          <Footer />
         </h1>
       </div>
     </main>
