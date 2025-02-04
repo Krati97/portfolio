@@ -18,7 +18,7 @@ export const navItems = [
     {
       id: 2,
       title: "I'm very flexible with time zone communications",
-      description: "",
+      description: "Transforming ideas shouldn't be time bound.",
       className: "lg:col-span-2 md:col-span-3 md:row-span-2",
       imgClassName: "",
       titleClassName: "justify-start",
@@ -38,7 +38,7 @@ export const navItems = [
     {
       id: 4,
       title: "Tech enthusiast with a passion for development.",
-      description: "",
+      description: "Always eager to build something valuable",
       className: "lg:col-span-2 md:col-span-3 md:row-span-1",
       imgClassName: "",
       titleClassName: "justify-start",
@@ -49,7 +49,7 @@ export const navItems = [
     {
       id: 5,
       title: "A Small Code Snippet",
-      description: "Block of code that hilights module importing in Js Project",
+      description: "Block of code that highlights module importing in Js Project",
       className: "md:col-span-3 md:row-span-2",
       imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
       titleClassName: "justify-center md:justify-start lg:justify-top",
