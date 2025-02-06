@@ -184,7 +184,7 @@ export const navItems = [
       title: "Associate Consultant - Technology",
       company: "Virtusa",
       location: "MP, India",
-      desc: "Worked on NextJs Projects extensively. Created and integrated RESTful APIs with best Practices. Used - React, NodeJs, NextJs, MongoDB, Git.",
+      desc: "Worked extensively on Next.js projects. Created and integrated RESTful APIs following best practices. Used: React, Node.js, Next.js, MongoDB, Git.",
       className: "md:col-span-2",
       thumbnail: "/exp3.svg",
     },
