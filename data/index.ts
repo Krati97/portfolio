@@ -1,6 +1,7 @@
 export const navItems = [
     { name: "About", link: "#about" },
     { name: "Previous Experiences", link: "#previous_experiences" },
+    { name: "Skills", link: "#skills" },
     { name: "Contact", link: "#contact" },
   ];
   
@@ -219,4 +220,28 @@ export const navItems = [
       img: "/link.svg",
       link: "https://www.linkedin.com/in/krati-maheshwari-833203109/",
     },
+  ];
+
+  export const skills = [
+
+    { name: "Javascript", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" },
+    { name: "TypeScript", link: "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" },
+    { name: "NodeJS", link: "https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" },
+    { name: "React", link: "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" },
+    { name: "NextJs", link: "https://decodenatura.com/static/fb8aa1bb70c9925ce1ae22dc2711b343/4e9d0/nextjs-logo.png" },
+    { name: "HTML", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" },
+    { name: "CSS", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" },
+    { name: "Tailwind CSS", link: "https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" },
+    { name: "Express", link: "https://cdn.hashnode.com/res/hashnode/image/upload/v1675637255386/f3a9a38b-116d-4b35-8f46-8d8abb78166f.png" },
+    { name: "GraphQL", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" },
+    { name: "Postman", link: "https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" },
+    { name: "Jest", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" },
+    { name: "MySQL", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" },
+    { name: "PostgreSql", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" },
+    { name: "Mongo DB", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" },
+    { name: "Git", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" },
+    { name: "GitHub", link: "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" },
+    { name: "NPM", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" },
+    { name: "AWS", link: "https://miro.medium.com/v2/resize:fit:1400/1*neG4D9C8UcJvNn6bverfIA.png" },
+    { name: "Jira", link: "https://avatars.slack-edge.com/2018-11-30/493753869479_4b703f4119efe3d7d0ff_512.png" }, 
   ];
