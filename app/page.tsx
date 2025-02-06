@@ -3,6 +3,7 @@ import Footer from "@/components/Footer";
 import Hero from "@/components/Hero";
 import PreviousExperiences from "@/components/PreviousExperiences";
 import { FloatingNav } from "@/components/ui/FloatingNav";
+import TechStack from "@/components/ui/TechStack";
 import { navItems } from "@/data";
 import dynamic from "next/dynamic";
 const Grid = dynamic(() => import("../components/Grid"), {
@@ -17,6 +18,7 @@ export default function Home() {
           <Hero />
           <Grid />
           <PreviousExperiences />
+          <TechStack />
           <Footer />
         </h1>
       </div>
