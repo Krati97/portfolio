@@ -10,7 +10,7 @@ const PreviousExperiences = () => {
         content: (
           <div className="bg-gray-100 dark:bg-neutral-900 p-4 rounded-lg shadow-lg">
             <h2 className='text-2xl text-white font-sans font bold'>{exp.company} </h2>
-            <h2 className='text-xl text-purple'>{exp.location}</h2>
+            <h2 className='text-base text-purple'>{exp.location}</h2>
             <p className="text-neutral-700 dark:text-neutral-300">{exp.desc}</p>
             <img src={exp.thumbnail} alt={exp.title} className="mt-4 w-20 h-20 object-contain" />
           </div>
