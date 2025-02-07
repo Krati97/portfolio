@@ -202,7 +202,7 @@ export const navItems = [
       id: 4,
       title: "Software developer",
       company: "DigiValet",
-      location: "MP, India",
+      location: "MP, India (2019-2021)",
       desc: "Assisted in the development of hospitality services used by Burj Khalifa, W London, Encore Boston. Used - Java, NodeJs, PostgreSql, Git.",
       className: "md:col-span-2",
       thumbnail: "/exp4.svg",
