@@ -175,7 +175,7 @@ export const navItems = [
       id: 1,
       title: "FullStack JavaScript Developer",
       company: "Zoro UK",
-      location: "London, United Kingdom",
+      location: "London, United Kingdom (2022-2024)",
       desc: "Developed and maintained e-commerce website using modern and latest frontend technologies. Used - React, NodeJs, TypeScript, NextJs, Graphql, AWS.",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
