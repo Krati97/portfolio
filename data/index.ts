@@ -193,7 +193,7 @@ export const navItems = [
       id: 3,
       title: "Solution Engineer",
       company: "Deqode",
-      location: "MP, India",
+      location: "MP, India (2021-2022)",
       desc: "Led development of fitness app from scratch. Worked for Ed-Tech company LeadSchool & created web and mobile solutions. Used - NestJs, TypeScript, BitBucket.",
       className: "md:col-span-2",
       thumbnail: "/exp2.svg",
