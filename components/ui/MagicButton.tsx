@@ -1,7 +1,6 @@
 import React from "react";
 
 const MagicButton = ({
-  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   title,
   icon,
   position,
