@@ -38,8 +38,10 @@ const Timeline = ({ data }: { data: TimelineEntry[] }) => {
       className="w-full bg-white dark:bg-neutral-950 font-sans md:px-10 border border-white/[0.1] rounded-lg"
       ref={containerRef}
     >
-
-      <div ref={ref} className="relative max-w-7xl mx-auto pb-20 overflow-hidden">
+      <div
+        ref={ref}
+        className="relative max-w-7xl mx-auto pb-20 overflow-hidden"
+      >
         {data.map((item, index) => (
           <div
             key={index}
