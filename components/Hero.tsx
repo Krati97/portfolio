@@ -24,27 +24,26 @@ const Hero = () => {
       </div>
       <div className="flex justify-center relative my-20 z-10">
         <div className="max-w-[89vw] md:max-w-2xl  lg:max-w-[60vw] flex flex-col items-center">
-            <h2 className="uppercase tracking-widest text-xs text-center text-blue-200 max-w-80">
-                Having 5+ years of experience in
-            </h2>
-            <TextGenerateEffect
+          <h2 className="uppercase tracking-widest text-xs text-center text-blue-200 max-w-80">
+            Having 5+ years of experience in
+          </h2>
+          <TextGenerateEffect
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
             words="Transforming concepts into seemless user experience"
+          />
+          <p className="text-center md:tracking-wider mb-4 xt-sm  md: text-lg lg:text-2xl">
+            Hi, I am <span className="text-purple">Krati Maheshwari</span>, a
+            JavaScript Fullstack developer Based in Vancouver.
+          </p>
+
+          <a href="#about">
+            <MagicButton
+              title="About Me "
+              icon={<FaAngleDown />}
+              position="right"
             />
-            <p className="text-center md:tracking-wider mb-4 xt-sm  md: text-lg lg:text-2xl">
-                Hi, I am <span className="text-purple">Krati Maheshwari</span>, a JavaScript Fullstack developer Based in Vancouver.
-            </p>
-
-            <a href="#about">
-                <MagicButton
-                title = "About Me "
-                icon = {<FaAngleDown />}
-                position = 'right'
-                />
-
-            </a>
+          </a>
         </div>
-
       </div>
     </div>
   );
