@@ -46,7 +46,6 @@ export const navItems = [
       img: "/grid.svg",
       spareImg: "/b4.svg",
     },
-  
     {
       id: 5,
       title: "A Small Code Snippet",
