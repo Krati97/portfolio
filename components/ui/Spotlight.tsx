@@ -7,6 +7,7 @@ type SpotlightProps = {
 };
 
 export const Spotlight = ({ className, fill }: SpotlightProps) => {
+  // Adding topmost spotlight feature.
   return (
     <svg
       className={cn(
