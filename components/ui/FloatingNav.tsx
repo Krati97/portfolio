@@ -12,8 +12,7 @@ import Link from "next/link";
 import { JSX } from "react/jsx-runtime";
 
 export const FloatingNav = ({
-  navItems,
-  className,
+  navItems, className,
 }: {
   navItems: {
     name: string;
