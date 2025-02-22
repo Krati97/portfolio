@@ -5,6 +5,7 @@ import { motion } from "framer-motion";
 import { skills } from "@/data";
 import { Button } from "./MovingBorder";
 const TechStack = () => {
+    // Keep adding tech stack here, but check its responsiveness.
   return (
     <div className="py-20" id="skills">
       <h1 className="heading">
