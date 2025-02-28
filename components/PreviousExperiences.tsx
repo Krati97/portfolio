@@ -4,6 +4,7 @@ import React from "react";
 import Timeline from "./ui/TimelineUI";
 
 const PreviousExperiences = () => {
+  // List of Previous experiences.
   const timelineData = workExperience.map((exp) => ({
     title: exp.title,
     content: (
