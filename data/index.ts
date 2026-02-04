@@ -154,7 +154,7 @@ export const navItems = [
   export const workExperience = [
     {
       id: 1,
-      title: "FullStack JavaScript Developer",
+      title: "Sr. FullStack JavaScript Developer",
       company: "Zoro UK",
       location: "London, United Kingdom (2022-2024)",
       desc: "Developed and maintained e-commerce website using modern and latest frontend technologies. Used - React, NodeJs, TypeScript, NextJs, Graphql, AWS.",
